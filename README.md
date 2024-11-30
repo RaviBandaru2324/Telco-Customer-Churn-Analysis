@@ -4,6 +4,7 @@
 This project focuses on analyzing and predicting customer churn for a telecom company using machine learning techniques. The dataset, telco-customer-churn.csv, includes customer demographics, account information, and service details. The project implements data preprocessing, exploratory data analysis (EDA), machine learning models, and performance evaluations.
 
 **Features**
+
 Data Preprocessing:
 Handling missing values,
 Encoding categorical variables,
